@@ -7,5 +7,5 @@ Have a look at the [report] for results and conclusion.
 
 Reference: [Classification of Gaps at Uncontrolled Intersections and Midblock Crossings Using Support Vector Machines]
 
-[report]: https://github.com/sumanvid97/TE1_Project/report.pdf
+[report]: https://github.com/sumanvid97/TE1_Project/blob/master/report.pdf
 [Classification of Gaps at Uncontrolled Intersections and Midblock Crossings Using Support Vector Machines]: https://trrjournalonline.trb.org/doi/abs/10.3141/2515-04
